@@ -5,6 +5,9 @@
     font-family: 'Roboto Slab', serif;
     user-select: none;
 }
+body{
+     background:linear-gradient(45deg, #f08ffa,#FF8C00) ;
+}
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -26,7 +29,7 @@
     align-items:center ;
     height: 100vh;
     color: white;
-    background:linear-gradient(45deg, #f08ffa,#FF8C00) ;
+   
 }
 .new-game , .refresh{
     padding: 10px;
